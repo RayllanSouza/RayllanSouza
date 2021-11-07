@@ -23,6 +23,6 @@
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
  
-  <div style="display: flex; justify-content:center; width: 100%;">
+  <div style="display: flex; justify-content:center; width: 100vw;">
     <h1>SKILLS</h1>
   </div>
